@@ -1,0 +1,29 @@
+.hdr{ 
+  color: yellow;
+  background: green;
+  text-align: center;
+ padding: 10px; 
+  border-radius: 30px;
+}
+.container{
+  background: rgb(17,158,242);
+background: radial-gradient(circle, rgba(17,158,242,1) 0%, rgba(51,110,145,1) 35%, rgba(13,162,103,1) 100%);
+ padding: 10px; 
+  border-radius: 25px;
+}
+.cut{
+width: 300px;
+ height: 250px;
+  border-radius: 100%;
+}
+.creater{
+  font-weight: 600;
+}
+.skilldiv{
+  text-align: center;
+}
+.skilldiv li{
+  display: inline-block;
+  text-align: center; 
+  font-weight: 600;
+}
